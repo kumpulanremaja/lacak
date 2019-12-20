@@ -13,7 +13,7 @@ Requirements
 
 Download/Installation
 ====
-* git clone https://github.com/maldevel/IPGeoLocation
+* git clone https://github.com/kumpulanremaja/lacak/
 * pip3 install -r requirements.txt --user
 
 if pip3 is missing:
@@ -138,3 +138,7 @@ Examples
 
 **Do not print results to terminal**
 * ./ip2geolocation.py -m -e /path/to/results.txt --noprint 
+
+
+
+untuk selengkap nya cek di https://www.kumpulanremaja.com/2019/12/cara-melacak-lokasi-termux.html
